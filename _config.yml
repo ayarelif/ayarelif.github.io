@@ -16,7 +16,7 @@ navbar-links:
 #  Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
 #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -44,7 +44,7 @@ social-network-links:
 #  twitter: daattali
   rss: true
 #  reddit: yourname
-  linkedin: "www.linkedin.com/in/elif-ayar"
+  linkedin: Elif Ayar
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
