@@ -47,6 +47,21 @@ The age range is between 18 and 80 years old. There are 7 age groups and each gr
 
 ![](https://miro.medium.com/max/1400/1*gPhF8UgIMxCBswyvwnj8Sw.png)
 
-The graph above shows that younger people show more depressive disorder symptoms compared to older people. To me, this is a very interesting result. People, who are around 25 years old, have more depressive symptoms compared to other weeks; however, there is a slight decrease in the number of cases for the same group age at the second week. Then there is not a significant difference between the weeks in the case numbers. I was expecting the case number might increase in people around 35 as more weeks pass. Only small numbers of cases are seen between the ages of 30 and 40 years old people. These results bring another question into our minds. Most young people are single and live alone. They mostly interact with friends and families outside. Thus, does limitations on social life cause more symptoms of depression on them? If you have any questions, you could reach the source [here]('https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm').
+The graph above shows that younger people show more depressive disorder symptoms compared to older people. To me, this is a very interesting result. People, who are around 25 years old, have more depressive symptoms compared to other weeks; however, there is a slight decrease in the number of cases for the same group age at the second week. Then there is not a significant difference between the weeks in the case numbers. I was expecting the case number might increase in people around 35 as more weeks pass. Only small numbers of cases are seen between the ages of 30 and 40 years old people. These results bring another question into our minds. Most young people are single and live alone. They mostly interact with friends and families outside. Thus, does limitations on social life cause more symptoms of depression on them? If you have any questions, you could reach the source [here](https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm).
 
 #### * Gender
+
+![](https://medium.com/@eayar2020/covid-19-consequences-e117c7d61f95)
+
+The result we could catch from the graph is that the case numbers are significant differences between genders. Men have a much harder time and more concerns during 5 periods compared to women. For example, out of 100 male participants, 26.1 males have shown the symptoms of depressive disorder in the first week. Moreover, from the first week to the fifth week, the numbers of men showing symptoms of disorders are going up faster than that of women . Women’s case number has been increased by 2.2 while men go up from 26.1 to 27.4.
+
+### 2.1.2 Effects of Covid-19 on society in the USA
+
+I have also investigated another to look at the impact of Covid-19 on society. [The COVID-19 impact survey](https://www.covid-impact.org/results) is designed to provide national and regional statistics about physical health, mental health, and economic impacts and social dynamics. Participants are selected randomly above 18 years old all over the 50 states in the USA. Mental health and social dynamic questions are mostly concerned to find s statistical impact of Covid-19 on society and people.
+
+#### * Impact of Covid-19 on Neighborhood relationship
+
+> Based on the news.google, the total confirmed cases in Newyork state is 392,700, and number of death is 30,844
+
+
+
