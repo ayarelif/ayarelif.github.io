@@ -61,7 +61,15 @@ I have also investigated another to look at the impact of Covid-19 on society. [
 
 #### * Impact of Covid-19 on Neighborhood relationship
 
-> Based on the news.google, the total confirmed cases in Newyork state is 392,700, and number of death is 30,844
+> Based on the [news.google](https://news.google.com/covid19/map?hl=en-US&mid=/m/059rby&gl=US&ceid=US:en), the total confirmed cases in Newyork state is 392,700, and number of death is 30,844
 
+New York state has the highest number of cases since the pandemic started in the USA. Thus, I choose New York state to see how seriously people’s lives are changed.
+
+Almost 400 interviewers were asked how often they talked with any of their neighbors in the past. Also, during a typical month before March 1, 2020, when COVID-19 began spreading in the United States, how often they talk with any of your neighbors.
+
+<div>
+    <a href="https://plotly.com/~elif_a/54/?share_key=48dM1xlPEelmBgZPhEbiSz" target="_blank" title="The impact of Covid-19 on Neighbors Relationships" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/54.png?share_key=48dM1xlPEelmBgZPhEbiSz" alt="The impact of Covid-19 on Neighbors Relationships" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="elif_a:54" sharekey-plotly="48dM1xlPEelmBgZPhEbiSz" src="https://plotly.com/embed.js" async></script>
+</div>
 
 
