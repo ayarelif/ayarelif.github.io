@@ -29,5 +29,9 @@ Even though the death rate of Covid-19 is less than the other epidemics, Covid-1
     <script data-plotly="elif_a:56" sharekey-plotly="cs3kSetSsD5ZVpTjfYLMTx" src="https://plotly.com/embed.js" async></script>
 </div>
 
+Covid-19 was first seen in China. Many media reported almost every hour on how the epidemic was spreading quickly to other countries. The United State confirmed its first case approximately a few weeks after the reported outbreak in China. China has had a total of 82,875 confirmed cases since January 2020, and it has taken the 5th place. Italy, Spain, and Germany have been coming after the U.S
 
+Even though some countries meet pandemic earlier than the USA, the data clearly shows that the U.S has the most confirmed cases.. 241,703 people have been affected seriously and some of them lost their lives. Indeed, there could be many reasons why the U.S has a greater number of cases such as population, geography, climates, social and economic dynamics, and so on.
+
+## 2. Consequences of Covid-19 in the U.S
 
