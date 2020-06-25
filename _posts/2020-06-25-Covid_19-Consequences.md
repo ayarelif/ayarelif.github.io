@@ -51,7 +51,7 @@ The graph above shows that younger people show more depressive disorder symptoms
 
 #### * Gender
 
-![](https://medium.com/@eayar2020/covid-19-consequences-e117c7d61f95)
+![] (https://medium.com/@eayar2020/covid-19-consequences-e117c7d61f95)
 
 
 The result we could catch from the graph is that the case numbers are significant differences between genders. Men have a much harder time and more concerns during 5 periods compared to women. For example, out of 100 male participants, 26.1 males have shown the symptoms of depressive disorder in the first week. Moreover, from the first week to the fifth week, the numbers of men showing symptoms of disorders are going up faster than that of women . Women’s case number has been increased by 2.2 while men go up from 26.1 to 27.4.
