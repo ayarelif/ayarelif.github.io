@@ -22,7 +22,7 @@ To sum up, the whole world has been affected by the pandemic, and lives have bee
 
 Even though the death rate of Covid-19 is less than the other epidemics, Covid-19 is the scariest pandemic and causes the most countries to take an emergency call action. It spreads very quickly and increases the number of patients faster, compared to other epidemic diseases. According to [The World Health Organization, WHO](https://colab.research.google.com/drive/1Dl7ag80nJH_sHp5D0ghUcz3wSyThWUj4#scrollTo=OUcqyz6pNAet&line=12&uniqifier=1) conducted an excellent survey and provided a very nice dataset to analyze and to see what countries are mostly affected by this pandemic. There are more than 100 countries in data and the period was used is among the first four months of 2020.
 
-####  **Top 10-Countries which have the greatest number of confirmed cases**
+   ####  **Top 10-Countries which have the greatest number of confirmed cases**
 
 <div>
     <a href="https://plotly.com/~elif_a/56/?share_key=cs3kSetSsD5ZVpTjfYLMTx" target="_blank" title="Covid_19 Project image 1" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/56.png?share_key=cs3kSetSsD5ZVpTjfYLMTx" alt="Covid_19 Project image 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
@@ -34,4 +34,11 @@ Covid-19 was first seen in China. Many media reported almost every hour on how t
 Even though some countries meet pandemic earlier than the USA, the data clearly shows that the U.S has the most confirmed cases.. 241,703 people have been affected seriously and some of them lost their lives. Indeed, there could be many reasons why the U.S has a greater number of cases such as population, geography, climates, social and economic dynamics, and so on.
 
 ## 2. Consequences of Covid-19 in the U.S
+
+Since Covid-19 has been a part of our lives, we have taken serious actions such as closing all private and public schools, most businesses, restaurants, and shopping areas, limiting or stopping face to face communication, staying at home for weeks, and even shutting down some cities and States. All those serious actions and limitations on human life would have some consequences and effects on society and people’s lives.
+
+### 2.1.1 Symptom of Depressive Disorder
+
+I used the Covid-19 dataset from CDC open data source, and this dataset is about the people who have confirmed symptoms of depressive and anxious disorders. Original data comes from the Household Pulse Survey run by the U.S. Census Bureau, and it is designed to provide an understanding of the pandemic on society, economy, and health. Five weekly periods were taken into consideration and participants were been asked how they feel the last 7 days. I have decided to investigate the relationships between disorder, age, and gender.
+
 
