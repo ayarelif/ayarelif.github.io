@@ -51,7 +51,7 @@ The graph above shows that younger people show more depressive disorder symptoms
 
 #### * Gender
 
-![](https://miro.medium.com/max/1400/1*Noj1x-fKuy85WKi8zNGkAw.png
+![](https://miro.medium.com/max/1400/1*Noj1x-fKuy85WKi8zNGkAw.png)
 
 
 The result we could catch from the graph is that the case numbers are significant differences between genders. Men have a much harder time and more concerns during 5 periods compared to women. For example, out of 100 male participants, 26.1 males have shown the symptoms of depressive disorder in the first week. Moreover, from the first week to the fifth week, the numbers of men showing symptoms of disorders are going up faster than that of women . Women’s case number has been increased by 2.2 while men go up from 26.1 to 27.4.
@@ -72,5 +72,34 @@ Almost 400 interviewers were asked how often they talked with any of their neigh
     <a href="https://plotly.com/~elif_a/54/?share_key=48dM1xlPEelmBgZPhEbiSz" target="_blank" title="The impact of Covid-19 on Neighbors Relationships" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/54.png?share_key=48dM1xlPEelmBgZPhEbiSz" alt="The impact of Covid-19 on Neighbors Relationships" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="elif_a:54" sharekey-plotly="48dM1xlPEelmBgZPhEbiSz" src="https://plotly.com/embed.js" async></script>
 </div>
+
+According to my analysis, there is not a significant change in the neighborhood relationship of participants in the NewYork state. Also, we could see from the graph that most of the interviewers talk to their neighbors a few times a week or a few times a month. On the other hand, I am expecting an increase in the number of responses between two time periods. We could conclude that new york state people are very friendly to their neighbors.
+
+
+#### * Impact of Covid-19 on Friends and Family communication
+
+The same group of people is also asked how often they communicate with friends and family by phone, text, email, app, or using the Internet in the past or how often they communicate with friends and family by phone, text, email, app, or using the Internet during a typical month before March 1, 2020, when COVID-19 began spreading in the United States.
+
+<div>
+    <a href="https://plotly.com/~elif_a/39/?share_key=MdvwawzCXrJvzUI3mPulaG" target="_blank" title="The Effect of Covid-19 on Friends and Family Relationships" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/39.png?share_key=MdvwawzCXrJvzUI3mPulaG" alt="The Effect of Covid-19 on Friends and Family Relationships" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="elif_a:39" sharekey-plotly="MdvwawzCXrJvzUI3mPulaG" src="https://plotly.com/embed.js" async></script>
+</div>
+
+67.6% of participants say they talk to their friends and families every day before Covid-19 began. However, there is more than a 10% decrease in response to the same question after the pandemic began in the U.S. On the other hand, 32.4 % of participants are calling and texting to their friends and families a few times a week when pandemic starts. Thus, I could say that the decrease in the response of everyday calls and text might be shifted to a few times a week. Only there is 3% among the responses who said that they talk to their parents and friends a few times a month.
+
+#### * The Effect of Covid-19 on Volunteering for Any Organization or Association
+
+The third question is about spending any time volunteering time for any organization or association before Covid-19 and when COVID-19 began spreading in the United States.
+
+<div>
+    <a href="https://plotly.com/~elif_a/43/?share_key=Q9icCPyheJWvKowDPt2Q8Y" target="_blank" title="Impact of Pandemic on Volunteeering for Any Organization" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/43.png?share_key=Q9icCPyheJWvKowDPt2Q8Y" alt="Impact of Pandemic on Volunteeering for Any Organization" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="elif_a:43" sharekey-plotly="Q9icCPyheJWvKowDPt2Q8Y" src="https://plotly.com/embed.js" async></script>
+</div>
+
+395 participants have responded to the question. There is a huge increase in the number of yes to the question. While only 55 people indicated that they were a volunteer at any organization before the pandemic, 104 responses say they work on the volunteer organization more than before during pandemic. We could conclude that the impact of Covid-19 on volunteering for any organization has been positive on society. I think that Covid-19 reminds people that it is time to help each other. People become more sensitive and considerate to their neighbors, environment, local volunteer organization, and even health care services. For instance, in WI, the State that I live in, I received an email from the UW-health system a couple of months ago, and they were asking for help to sew face masks. Many people who can sew a face mask returned the call, and in a short time, hospitals and clinics could have enough supply to protect themself from the pandemic. I believe we could increase the example of people volunteering more during the pandemic.
+
+More volunteering could be one of the positive and uplifting results of this epidemic. I appreciate that I was able to identify this result.
+
+### 2.1.3 How is people’s emotion affected by the pandemic in the USA
 
 
