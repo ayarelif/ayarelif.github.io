@@ -18,7 +18,9 @@ To sum up, the whole world has been affected by the pandemic, and lives have bee
 
 ## 1. What countries are mostly suffered by Covid-19?
 
-> NBC news mentions “The new coronavirus appears to be less deadly than SARS, which killed around 10 percent of people who became infected. The SARS outbreak was contained within about six months, while the COVID-19 outbreak is only a few months old at this point. Approximately 35 percent of reported patients with MERS died, but there were significantly fewer cases than either SARS or COVID-19 during that outbreak.”/
+> NBC news mentions “The new coronavirus appears to be less deadly than SARS, which killed around 10 percent of people who became infected. The SARS outbreak was contained within about six months, while the COVID-19 outbreak is only a few months old at this point. Approximately 35 percent of reported patients with MERS died, but there were significantly fewer cases than either SARS or COVID-19 during that outbreak.”
+
+Even though the death rate of Covid-19 is less than the other epidemics, Covid-19 is the scariest pandemic and causes the most countries to take an emergency call action. It spreads very quickly and increases the number of patients faster, compared to other epidemic diseases. According to [The World Health Organization, WHO](https://colab.research.google.com/drive/1Dl7ag80nJH_sHp5D0ghUcz3wSyThWUj4#scrollTo=OUcqyz6pNAet&line=12&uniqifier=1) conducted an excellent survey and provided a very nice dataset to analyze and to see what countries are mostly affected by this pandemic. There are more than 100 countries in data and the period was used is among the first four months of 2020.
 
 
 
