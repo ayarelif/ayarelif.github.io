@@ -14,9 +14,10 @@ author: Elif Ayar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    -Mathematic:
-    -Data Science:
+  Subjects:
     -Actuary:
+    -Data Science:
+    -Mathematics:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
 #   - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
