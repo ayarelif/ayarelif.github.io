@@ -39,10 +39,14 @@ Since Covid-19 has been a part of our lives, we have taken serious actions such 
 
 ### 2.1.1 Symptom of Depressive Disorder
 
-I used the Covid-19 dataset from CDC open data source, and this dataset is about the people who have confirmed symptoms of depressive and anxious disorders. Original data comes from the Household Pulse Survey run by the U.S. Census Bureau, and it is designed to provide an understanding of the pandemic on society, economy, and health. Five weekly periods were taken into consideration and participants were been asked how they feel the last 7 days. I have decided to investigate the relationships between disorder, age, and gender.
+I used the Covid-19 dataset from [CDC](https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp) open data source, and this dataset is about the people who have confirmed symptoms of depressive and anxious disorders. Original data comes from the Household Pulse Survey run by the U.S. Census Bureau, and it is designed to provide an understanding of the pandemic on society, economy, and health. Five weekly periods were taken into consideration and participants were been asked how they feel the last 7 days. I have decided to investigate the relationships between disorder, age, and gender.
 
 #### * Age
 
 The age range is between 18 and 80 years old. There are 7 age groups and each group will be categorized based on weekly reports. Instead of case numbers, the mean case number is provided for each category.
 
-img: 'assets/img/capture 7.PNG'
+![](https://miro.medium.com/max/1400/1*gPhF8UgIMxCBswyvwnj8Sw.png)
+
+The graph above shows that younger people show more depressive disorder symptoms compared to older people. To me, this is a very interesting result. People, who are around 25 years old, have more depressive symptoms compared to other weeks; however, there is a slight decrease in the number of cases for the same group age at the second week. Then there is not a significant difference between the weeks in the case numbers. I was expecting the case number might increase in people around 35 as more weeks pass. Only small numbers of cases are seen between the ages of 30 and 40 years old people. These results bring another question into our minds. Most young people are single and live alone. They mostly interact with friends and families outside. Thus, does limitations on social life cause more symptoms of depression on them? If you have any questions, you could reach the source [here]('https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm').
+
+#### * Gender
