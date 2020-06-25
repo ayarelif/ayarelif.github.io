@@ -24,6 +24,10 @@ Even though the death rate of Covid-19 is less than the other epidemics, Covid-1
 
 ####  **Top 10-Countries which have the greatest number of confirmed cases**
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elif_a/56.embed"></iframe>
+<div>
+    <a href="https://plotly.com/~elif_a/56/?share_key=cs3kSetSsD5ZVpTjfYLMTx" target="_blank" title="Covid_19 Project image 1" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/56.png?share_key=cs3kSetSsD5ZVpTjfYLMTx" alt="Covid_19 Project image 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="elif_a:56" sharekey-plotly="cs3kSetSsD5ZVpTjfYLMTx" src="https://plotly.com/embed.js" async></script>
+</div>
+
 
 
