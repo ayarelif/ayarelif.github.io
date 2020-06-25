@@ -41,4 +41,8 @@ Since Covid-19 has been a part of our lives, we have taken serious actions such 
 
 I used the Covid-19 dataset from CDC open data source, and this dataset is about the people who have confirmed symptoms of depressive and anxious disorders. Original data comes from the Household Pulse Survey run by the U.S. Census Bureau, and it is designed to provide an understanding of the pandemic on society, economy, and health. Five weekly periods were taken into consideration and participants were been asked how they feel the last 7 days. I have decided to investigate the relationships between disorder, age, and gender.
 
+#### * Age
 
+The age range is between 18 and 80 years old. There are 7 age groups and each group will be categorized based on weekly reports. Instead of case numbers, the mean case number is provided for each category.
+
+img: 'assets/img/capture 7.PNG'
