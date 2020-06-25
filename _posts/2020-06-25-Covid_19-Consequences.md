@@ -2,20 +2,9 @@
 layout: post
 title: Covid-19 Consequences
 subtitle: What countries are mostly suffered by Covid-19?
-cover-img: assets/img/CoronaVirusHeader-Final-3-1536x647.jpg
+cover-img: assets/img/Covid-19 pic.jpg
 tags: [Covid-19, Mental Heath]
 ---
-
-
-
-
-
-
-
-
-
-
-
 
 # **Covid-19 Consequences**
 
