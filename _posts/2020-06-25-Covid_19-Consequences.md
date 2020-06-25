@@ -22,7 +22,7 @@ To sum up, the whole world has been affected by the pandemic, and lives have bee
 
 Even though the death rate of Covid-19 is less than the other epidemics, Covid-19 is the scariest pandemic and causes the most countries to take an emergency call action. It spreads very quickly and increases the number of patients faster, compared to other epidemic diseases. According to [The World Health Organization, WHO](https://colab.research.google.com/drive/1Dl7ag80nJH_sHp5D0ghUcz3wSyThWUj4#scrollTo=OUcqyz6pNAet&line=12&uniqifier=1) conducted an excellent survey and provided a very nice dataset to analyze and to see what countries are mostly affected by this pandemic. There are more than 100 countries in data and the period was used is among the first four months of 2020.
 
-   ####  **Top 10-Countries which have the greatest number of confirmed cases**
+   #### **Top 10-Countries which have the greatest number of confirmed cases**
 
 <div>
     <a href="https://plotly.com/~elif_a/56/?share_key=cs3kSetSsD5ZVpTjfYLMTx" target="_blank" title="Covid_19 Project image 1" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/56.png?share_key=cs3kSetSsD5ZVpTjfYLMTx" alt="Covid_19 Project image 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
@@ -101,5 +101,16 @@ The third question is about spending any time volunteering time for any organiza
 More volunteering could be one of the positive and uplifting results of this epidemic. I appreciate that I was able to identify this result.
 
 ### 2.1.3 How is people’s emotion affected by the pandemic in the USA
+
+There are a lot of questions related to the feelings of people during this pandemic. Media reports, unemployment rate increase, unknown virus, shutdowns of cities, and so on could be scary for most people. Some people prefer to work and study in their homes. We engage our lives according to the new pandemic. It is very common to see people who use masks and gloves outside. We are talking about almost 4 long months of social distancing. I wonder how people feel right now.
+
+One of the survey questions is about how often people have a feeling of nervousness, anxiousness, depression, loneliness, hopelessness about the future.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elif_a/45.embed"></iframe>
+
+There are a variety of responses according to the graph I created. The number of people who feel nervous, depressed, lonely, or hopeless is almost fairly equal to each other. The interesting thing is that these feelings last less than 1 day. Also, there is a 75% decrease in the number of people’s emotions as the 5–7 days passed. For example, the red bar is representing anxiousness and nervousness and has a decrease from 242 to 38. This could be interpreted as participants might find a way to handle their feeling, or there are not serious depressive and anxiety disorder symptoms in society during this pandemic period.
+
+
+
 
 
