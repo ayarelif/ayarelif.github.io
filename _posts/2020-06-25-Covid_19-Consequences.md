@@ -6,7 +6,6 @@ cover-img: assets/img/Covid-19 pic.jpg
 tags: [Covid-19, Mental Heath]
 ---
 
-# **Covid-19 Consequences**
 
 
 
