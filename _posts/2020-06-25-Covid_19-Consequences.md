@@ -24,4 +24,6 @@ Even though the death rate of Covid-19 is less than the other epidemics, Covid-1
 
 ####  **Top 10-Countries which have the greatest number of confirmed cases**
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elif_a/56.embed"></iframe>
+
 
