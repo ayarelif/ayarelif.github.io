@@ -106,9 +106,52 @@ There are a lot of questions related to the feelings of people during this pande
 
 One of the survey questions is about how often people have a feeling of nervousness, anxiousness, depression, loneliness, hopelessness about the future.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elif_a/45.embed"></iframe>
+<div>
+    <a href="https://plotly.com/~elif_a/45/?share_key=uPQ1WrbjdInhA1X4K99Afh" target="_blank" title="The Effect of Covid-19 on Feeling of A Person" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/45.png?share_key=uPQ1WrbjdInhA1X4K99Afh" alt="The Effect of Covid-19 on Feeling of A Person" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="elif_a:45" sharekey-plotly="uPQ1WrbjdInhA1X4K99Afh" src="https://plotly.com/embed.js" async></script>
+</div>
 
 There are a variety of responses according to the graph I created. The number of people who feel nervous, depressed, lonely, or hopeless is almost fairly equal to each other. The interesting thing is that these feelings last less than 1 day. Also, there is a 75% decrease in the number of people’s emotions as the 5–7 days passed. For example, the red bar is representing anxiousness and nervousness and has a decrease from 242 to 38. This could be interpreted as participants might find a way to handle their feeling, or there are not serious depressive and anxiety disorder symptoms in society during this pandemic period.
+
+### Nervousness and Anxiousness by Gender
+
+I selected only observations related to anxiousness and nervousness from the data set, and I generated a new dataset. Who feels more nervous and more anxious in the last 7 days? I assume during this period, females might feel more anxious and nervous compared to men. Thus, I have proposed the null hypothesis which claims the means of female and meal sample groups do not have significant differences.
+
+mean1=mean2
+
+On the other hand, an alternative hypothesis argues that female means are not equal to the male mean.
+
+mean1=!mean2
+
+We know from the previous graph that the symptoms of depressive disorder are more commonly seen among men. Based on this clue, I am thinking women are less likely to feel nervous and anxious compared to men.
+
+After making t-test statistics on the sample dataset, p_value, and test statistics let us reject the null hypothesis. I can conclude 95 % confidently that there is a statistically significant mean difference between men and women.
+
+Which gender has more anxious and nervous?
+
+<div>
+    <a href="https://plotly.com/~elif_a/50/?share_key=m2tJiMTJDUIkxbg4GBw0ag" target="_blank" title="Impact of Covid-19 on Feeling of A Person by Gender" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/50.png?share_key=m2tJiMTJDUIkxbg4GBw0ag" alt="Impact of Covid-19 on Feeling of A Person by Gender" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="elif_a:50" sharekey-plotly="m2tJiMTJDUIkxbg4GBw0ag" src="https://plotly.com/embed.js" async></script>
+</div>
+
+The number of males is slightly higher than women at less than one-day column. The following columns conclude that both genders have a nice drop in the numbers; however, women take a longer time to relax. For example, men have a 35% decrease from a one-day column to a 1–2 days column.
+
+### Nervousness and Anxiousness by Age
+
+<div>
+    <a href="https://plotly.com/~elif_a/52/?share_key=njqaIeKZ1f8rhYuoR3UG5j" target="_blank" title="Age" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/52.png?share_key=njqaIeKZ1f8rhYuoR3UG5j" alt="Age" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="elif_a:52" sharekey-plotly="njqaIeKZ1f8rhYuoR3UG5j" src="https://plotly.com/embed.js" async></script>
+</div>
+
+
+The last observation I did is based on the age group. The survey is provided to the participants who are above 18 years old and below 80 years old. There are 6 age categories and the age range in each category is around 10. The highest percentage at less than one-day column belongs to the age group 65–74-year-old people while the smallest ratio is 0.44 and represents the youngest age group, 18–24 ages. The same older group has a new drop in the following days period while the young group shows less drop compared to other groups. Period 5–7 days has the proportion of young people group 0.16 while the older group age has 0.04. we might conclude that the younger generation takes a longer time to recover.
+
+## Conclusion
+
+Covid-19 is a historical event, and we are witnessing this special moment. All the analyses show that Covid-19 has a real impact on our lives and society. While some people show the symptom of depressive disorder, some other people become less or more socialized because of isolated life and limitations in their daily lives. The good news is that the vaccine for the diseases is on the way, and we are all waiting to go back to our regular life. I do not know how lucky or unlucky we are, but we will have precious memories to share with the next generations.
+
+
+
 
 
 
