@@ -9,6 +9,7 @@ tags: [Covid-19, Mental Heath]
 # **Covid-19 Consequences**
 
 
+
 ## **Introduction:**
 
 Coronavirus (Covid-19 )is a respiratory illness and is the strain discovered at almost the end of the year 2019. There have been many types of coronavirus discovered so far; however, the world has been affected a lot more seriously with the current strain compared to other types of coronaviruses. The first outbreak was identified in Wuhan, China, in December 2019. On January 30, 2020, the World Health Organization, WHO, declared the Public Health Emergency of international concern. Only a few weeks passed over the first outbreak declaration, and WHO declared the COVID-19 as a pandemic and invited all countries to take serious actions on March 11, 2020. There are 8,969,827 total global confirmed cases and 468,576 global death numbers based on the daily report of Johns Hopkins University today. The number is increasing every day. Pandemic has caused global social disruption. Many events around the world have been canceled or postponed. Universities, schools, kids’ playgrounds, businesses, shopping areas, and even worship services of various faiths have been affected by the pandemic, and they have been temporarily closed. Some cities and states even decided to shot down. Our lives have changed. Some have continued working online. Kids have distance education from their homes. We have been informed about how to keep our environment hygienic. Social distance and face masks have been serious steps to protect ourselves from the virus.
@@ -22,7 +23,8 @@ To sum up, the whole world has been affected by the pandemic, and lives have bee
 
 Even though the death rate of Covid-19 is less than the other epidemics, Covid-19 is the scariest pandemic and causes the most countries to take an emergency call action. It spreads very quickly and increases the number of patients faster, compared to other epidemic diseases. According to [The World Health Organization, WHO](https://colab.research.google.com/drive/1Dl7ag80nJH_sHp5D0ghUcz3wSyThWUj4#scrollTo=OUcqyz6pNAet&line=12&uniqifier=1) conducted an excellent survey and provided a very nice dataset to analyze and to see what countries are mostly affected by this pandemic. There are more than 100 countries in data and the period was used is among the first four months of 2020.
 
-   #### **Top 10-Countries which have the greatest number of confirmed cases**
+
+#### **Top 10-Countries which have the greatest number of confirmed cases**
 
 <div>
     <a href="https://plotly.com/~elif_a/56/?share_key=cs3kSetSsD5ZVpTjfYLMTx" target="_blank" title="Covid_19 Project image 1" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/56.png?share_key=cs3kSetSsD5ZVpTjfYLMTx" alt="Covid_19 Project image 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
@@ -113,7 +115,7 @@ One of the survey questions is about how often people have a feeling of nervousn
 
 There are a variety of responses according to the graph I created. The number of people who feel nervous, depressed, lonely, or hopeless is almost fairly equal to each other. The interesting thing is that these feelings last less than 1 day. Also, there is a 75% decrease in the number of people’s emotions as the 5–7 days passed. For example, the red bar is representing anxiousness and nervousness and has a decrease from 242 to 38. This could be interpreted as participants might find a way to handle their feeling, or there are not serious depressive and anxiety disorder symptoms in society during this pandemic period.
 
-### Nervousness and Anxiousness by Gender
+#### * Nervousness and Anxiousness by Gender
 
 I selected only observations related to anxiousness and nervousness from the data set, and I generated a new dataset. Who feels more nervous and more anxious in the last 7 days? I assume during this period, females might feel more anxious and nervous compared to men. Thus, I have proposed the null hypothesis which claims the means of female and meal sample groups do not have significant differences.
 
@@ -136,7 +138,7 @@ Which gender has more anxious and nervous?
 
 The number of males is slightly higher than women at less than one-day column. The following columns conclude that both genders have a nice drop in the numbers; however, women take a longer time to relax. For example, men have a 35% decrease from a one-day column to a 1–2 days column.
 
-### Nervousness and Anxiousness by Age
+#### * Nervousness and Anxiousness by Age
 
 <div>
     <a href="https://plotly.com/~elif_a/52/?share_key=njqaIeKZ1f8rhYuoR3UG5j" target="_blank" title="Age" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/52.png?share_key=njqaIeKZ1f8rhYuoR3UG5j" alt="Age" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
