@@ -10,12 +10,7 @@ Welcome to my blog! I am excited about the opportunity to write about my areas o
 
 I really like playing with numbers, solving problems, learning and expanding my knowledge in math and statistics, and applying them to the real world. This is why I am really attracted to Actuarial Science and Data Science. I intend to write about Actuarial Science and Data Science here in this blog. I hope you are going to enjoy my blog.
 
-What else should I talk about?
 
-## My History
-
-
-To be honest, I don’t really know what to write and talk about right now, but I have created a short video clip [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) about myself and I will share more about my areas of interest there.
 
 Thank you!
 
