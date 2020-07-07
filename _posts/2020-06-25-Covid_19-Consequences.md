@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Covid-19 Consequences
-subtitle: What countries are mostly suffered by Covid-19?
+title: Covid-19 and Its Impact on American Society
 cover-img: assets/img/Covid-19 pic.jpg
 tags: [Covid-19, Mental Heath]
 ---
