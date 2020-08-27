@@ -66,7 +66,6 @@ Let's look at the general cases over the US which states and regions are most li
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elif_a/104.embed"></iframe>
 
-
 Based on the little purple clusters in the graph, Washington, NewYork, California, and Georgia have more cases. 
 Most popular and big cities are all around these states, so the result is not surprising. 
 As the populations with the big cities are high, the majority of car accidents appear around these cities and states.
