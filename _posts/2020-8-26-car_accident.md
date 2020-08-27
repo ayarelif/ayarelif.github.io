@@ -30,7 +30,7 @@ accidents among states and cities? How accurately could we predict the severity 
 ## **Dataset**
 
 This research will be about the severity of car accidents on traffic and what factors are critical to cause accidents
-in the US. The dataset is coming from the source, the Kaggle, and it contains 3.5 million observations and 49 features.
+in the US. The dataset is coming from the source, the [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents), and it contains 3.5 million observations and 49 features.
 The dataset covers 49 states in the US, and the accident dataset is gained from February 2016 to June 2020 using two APIs.
 
 ## **Purpose**
@@ -73,10 +73,7 @@ As the populations with the big cities are high, the majority of car accidents a
 
 Let's close look at the severity of the accident depending on the states which have a high number of car accident cases.
 
-<div>
-    <a href="https://plotly.com/~elif_a/111/?share_key=JhRSYiDnUrLm3cE3ZfmVT7" target="_blank" title="car_severity" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/111.png?share_key=JhRSYiDnUrLm3cE3ZfmVT7" alt="car_severity" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="elif_a:111" sharekey-plotly="JhRSYiDnUrLm3cE3ZfmVT7" src="https://plotly.com/embed.js" async></script>
-</div>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elif_a/111.embed"></iframe>
 
 California is almost double on both parts. As we look at the graph closely, North California and South California has almost the same number of confirmed car accident cases.
 The other two states Texas, and Florida are following behind California. 
