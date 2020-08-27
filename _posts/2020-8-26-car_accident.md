@@ -27,30 +27,30 @@ of getting injured or disabled is 0.45% for each person.
 What are the factors that directly are related to car accidents and their severity? How is the distribution of car
 accidents among states and cities? How accurately could we predict the severity of car accidents depending on factors?
 
-##**Dataset**
+## **Dataset**
 
 This research will be about the severity of car accidents on traffic and what factors are critical to cause accidents
 in the US. The dataset is coming from the source, the Kaggle, and it contains 3.5 million observations and 49 features.
 The dataset covers 49 states in the US, and the accident dataset is gained from February 2016 to June 2020 using two APIs.
 
-##**Purpose**
+## **Purpose**
 
 I will try to predict the outcome of the cases which has a high serious car accident report or which has a low serious
 car accident record with an 80% accuracy score.
 
-##**Method**
+## **Method**
 
 I split the dataset into a Train/Val/Test set. Most of the columns have categorical variables and consist of a few classes. 
 As this is a classification problem, any of the classification algorithms could be used. Thus, I used four types of models 
 to get the best prediction; Deforest Classifier, Decision Tree Classifier, RandomForest Classifier, and GXboost Classifier.
 Based on my finding, I will apply the RandomForest Classifier model to predict best with a 76.38% accuracy score on the test set.
 
-##**Baseline**
+## **Baseline**
 
 Before building the model, I checked the baseline prediction with the majority class and decided to use an 
 accuracy score as an evaluation metric. Thus, the baseline score is 0.683742.
 
-##**Features**
+## **Features**
 
 The original dataset covers 49 columns with 3.5 million observations, but I did not use the whole columns to predict the outcomes.
 I used two methods to decide the best features, panda profiling report, and permutation importance.
@@ -58,16 +58,13 @@ I also applied a feature engineering to create a column to create a time series 
 As a result, I used only 38 features with a 3.5 million observation dataset.
 
 
-##**Exploratory Data Analysis**
+## **Exploratory Data Analysis**
 
 Before I dive into the prediction model, I like to discover the dataset with some important features and a target.
 
 Let's look at the general cases over the US which states and regions are most likely to have car accidents since 2016
 
-<div>
-    <a href="https://plotly.com/~elif_a/104/?share_key=2QawL3RqVM8ywKbxCnNiHs" target="_blank" title="Car_Accident_US" style="display: block; text-align: center;"><img src="https://plotly.com/~elif_a/104.png?share_key=2QawL3RqVM8ywKbxCnNiHs" alt="Car_Accident_US" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="elif_a:104" sharekey-plotly="2QawL3RqVM8ywKbxCnNiHs" src="https://plotly.com/embed.js" async></script>
-</div>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elif_a/104.embed"></iframe>
 
 
 Based on the little purple clusters in the graph, Washington, NewYork, California, and Georgia have more cases. 
@@ -86,7 +83,7 @@ The other two states Texas, and Florida are following behind California.
 Another interesting result is the low severity of car accidents in the states are following in the same order of the states at the high severity car accidents cases.
 For example, California has the biggest number of low severity confirmed cases while it has still the greatest number of confirmed high severity cases.
 
-##**Machine Learning**
+## **Machine Learning**
 
 After exploring the dataset a little bit, let's dive into the prediction model which I used. I used four different 
 classifier models to get the best accuracy score on the validation set, 
@@ -105,7 +102,7 @@ we do not still have enough information to see how important the relationship be
 Because of the classifier model I used, we can not directly see coefficient numbers on the model. 
 Instead, a partial dependence plot could be a good choice to look at closely features and their movement depending on the target.
 
-##**Partial Dependence Plot**
+## **Partial Dependence Plot**
 
 ![](https://cdn-images-1.medium.com/max/800/1*uKwMX3frE50wQyILkRrIUQ.png)
 
@@ -123,7 +120,7 @@ the high severity of the car accident range is slightly increasing and the stree
 A heat map is another perspective to look at the two features at the same time. As time differences are increasing, the severity of accidents is getting high as well. 
 That makes sense because the high severity of car accidents might take much more time to be reported and cleaned from the traffic.
 
-##**Conclusion**
+## **Conclusion**
 
 
 
