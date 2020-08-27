@@ -40,10 +40,7 @@ car accident record with an 80% accuracy score.
 
 ## **Method**
 
-I split the dataset into a Train/Val/Test set. Most of the columns have categorical variables and consist of a few classes. 
-As this is a classification problem, any of the classification algorithms could be used. Thus, I used four types of models 
-to get the best prediction; Deforest Classifier, Decision Tree Classifier, RandomForest Classifier, and GXboost Classifier.
-Based on my finding, I will apply the RandomForest Classifier model to predict best with a 76.38% accuracy score on the test set.
+I split the dataset into a Train/Val/Test set. Most of the columns have categorical variables and consist of a few classes. As this is a classification problem, any of the classification algorithms could be used. Thus, I used four types of models to get the best prediction; Logistic Regression with 71% accuracy score on validating the dataset, Decision Tree with 74% accuracy score on validate set, RandomForest with hyperparameters with 76% accuracy on the test set, and GXboost with 76% accuracy on a validating set. Based on my finding, I will apply the RandomForest Classifier model to predict best with a 76.38% accuracy score on the test set.
 
 ## **Baseline**
 
@@ -118,7 +115,6 @@ That makes sense because the high severity of car accidents might take much more
 
 ## **Conclusion**
 
-
-
+I do not hesitate to use classification models on my dataset because most of the columns have classes. However, regression models with different matrix evaluations could be applied for this dataset. Feel free to run my data and make your own predictive models. If you click the [my github](https://github.com/ayarelif/Car-Accident-in-USA) account, you can draw the raw files from my file. 
 
 
